@@ -1,0 +1,9 @@
+[
+  {
+    "id": "unique_tool_id_1",
+    "name": "test",
+    "description": "test",
+    "version": "1.0.0",
+    "downloadUrl": "https://raw.githubusercontent.com/exears/DevXYZPlugin/main/white/apk/tool1.apk"
+  },
+]
