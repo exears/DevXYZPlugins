@@ -4,7 +4,7 @@
     "name": "BLE Scanner",
     "description": "BLE Radio Scanner",
     "file_name": "BleScannerPlugin.dex",
-    "main_class": "com.exears.devxyz.api.BleScannerModule",
+    "main_class": "com.exears.blescan.BleScannerModule",
     "version": "1.0.0"
   }
 ]
