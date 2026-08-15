@@ -3,7 +3,7 @@
     "id": "unique_tool_id_1",
     "name": "BLE Scanner",
     "description": "BLE Radio Scanner",
-    "file_name": "classes.dex",
+    "file_name": "BleScannerPlugin.dex",
     "main_class": "com.exears.devxyz.api.BleScannerModule",
     "version": "1.0.0"
   }
